@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋, I’m Udoudoakpan Ekom  </h1>
+<h1 align="center"> Hi👋, I’m Maytalmind </h1>
 
 
 - 👀 I’m interested in Blockchain development
