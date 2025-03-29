@@ -1,8 +1,8 @@
 <h1 align="center"> Hi👋, I’m Maytalmind </h1>
 
 
-- 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning Javascript, React and MongoDB
+- 👀 I’m interested in Blockchain development and project growth in Africa
+- 🌱 I’m currently learning Javascript, React, MongoDB and Rust
 - 💞️ I’m looking to collaborate on frontend projects 
 - 📫 How to reach me udoudoakpanekom@gmail.com
 - 😎 I still build **fantastic** web pages/apps with HTML, CSS and JavaScript
